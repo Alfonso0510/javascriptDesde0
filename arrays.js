@@ -1,3 +1,3 @@
 let array = ['Hola', 'mundo', 'cruel'];
 
-document.write(`La palabra "${array[2]}" tiene ${array[2].length} letras`);
+document.write(`La palabra "${array[1]}" tiene ${array[0].length} letras`);

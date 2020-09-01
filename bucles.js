@@ -1,0 +1,7 @@
+/*Bucle determinado*/
+
+
+
+
+
+/*Bucle indeterminado*/
